@@ -41,4 +41,4 @@ gcc task1.c -o task1
 bash
 ./название_программы
 ./task1
-# balandina_c
+
